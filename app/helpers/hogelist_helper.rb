@@ -1,0 +1,2 @@
+module HogelistHelper
+end
